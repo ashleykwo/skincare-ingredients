@@ -1,0 +1,116 @@
+[
+  {
+    "ingredient" : "Alcohol",
+    "alsoKnownAs" : [],
+    "pros" : ["good alcohols have high molecular weight"],
+    "cons" : ["ethanol", "ethyl alcohol", "denatured alcohol", "methanol", "isopropyl alcohol", "SD alcohol", "benzyl alcohol", "drying", "sensitizing", "damaging to the skin's moisture barrier"]
+  },
+  {
+    "ingredient" : "Aloe Vera",
+    "alsoKnownAs" : [],
+    "pros" : ["soothes", "hydrates", "provides antioxidant benefits", "refreshing effects ofr irritated or sunburnt skin"],
+    "cons" : []
+  },
+  {
+    "ingredient" : "Alpha Hydroxy Acid (AHA)",
+    "alsoKnownAs" : ["Glycolic Acid", "Lactic Acid", "Malic Acid", "Mandelic Acid", "Citric Acid", "Tartaric Acid"],
+    "pros" : ["resurfaces skin by removing dead skin cells", "creates glowing, radiant, even-toned complexion", "heals sun damage, acne scarring, and pigmentation", "natural agent", "helps increase the production of collagen"],
+    "cons" : ["only works on outer surface of the skin"]
+  },
+  {
+    "ingredient" : "Argan Oil",
+    "alsoKnownAs" : [],
+    "pros" : ["contains skin-benefiting lipds, fatty acids, and antioxidants"],
+    "cons" : []
+  },
+  {
+    "ingredient" : "Benzoyl Peroxide",
+    "alsoKnownAs" : ["BPO"],
+    "pros" : ["anti-bacterial agent", "highly effective for treating acne without much irritation", "inhibits p acne", "anti-inflammatory"],
+    "cons" : []
+  },
+  {
+    "ingredient" : "Beta Hydroxy Acid (BHA)",
+    "alsoKnownAs" : ["Salicylic Acid", "Beta Hydroxybutanoic Acid", "Tropic Acid", "Trethocanic Acid"],
+    "pros" : ["anti-bacterial", "pore-cleaning", "penetrates inside pores to fight bacteria (anti-inflammatory)", "ideal for whiteheads, blackheads, clogged pores, cystic acne"],
+    "cons" : ["may not work for a lot of people", "doesn't work for sensitive skin", "drying"]
+  },
+  {
+    "ingredient" : "Caffeine",
+    "alsoKnownAs" : [],
+    "pros" : ["antioxidant", "soothing", "improves redness"],
+    "cons" : ["irritating"]
+  },
+  {
+    "ingredient" : "Collagen",
+    "alsoKnownAs" : [],
+    "pros" : ["water-binding agent to keep moisture locked into skin"],
+    "cons" : []
+  },
+  {
+    "ingredient" : "Clay",
+    "alsoKnownAs" : ["Bentonite Clay"],
+    "pros" : ["absorbs excess oil", "unclogs congested pores"],
+    "cons" : []
+  },
+  {
+    "ingredient" : "Glycerin",
+    "alsoKnownAs" : [],
+    "pros" : ["maintains soft, moisturized, healthy look", "restores skin"],
+    "cons" : []
+  },
+  {
+    "ingredient" : "Green Tea",
+    "alsoKnownAs" : [],
+    "pros" : ["antioxidant", "anti-aging", "soothes", "improves the appearance of sun damage"],
+    "cons" : []
+  },
+  {
+    "ingredient" : "Hyaluronic Acid (HA)",
+    "alsoKnownAs" : [],
+    "pros" : ["restores skin", "hydrates", "protects skins from environmental stressors", "works will almost all skin types"],
+    "cons" : []
+  },
+  {
+    "ingredient" : "Jojoba Oil",
+    "alsoKnownAs" : [],
+    "pros": ["treating dry skin"],
+    "cons" : []
+  },
+  {
+    "ingredient" : "Mineral Oil",
+    "alsoKnownAs" : [],
+    "pros" : ["soothes", "moisturises"],
+    "cons" : ["pore-clogging"]
+  },
+  {
+    "ingredient" : "Vitamin A",
+    "alsoKnownAs" : [],
+    "pros" : ["firming", "exfoliating", "skin-regenerating", "reverses skin damage"],
+    "cons" : ["irritating"]
+  },
+  {
+    "ingredient" : "Vitamin B3",
+    "alsoKnownAs" : ["Niacinamide", "Niacin"],
+    "pros" : ["hydrates", "brightens complexion", "repairs skin barrier", "gentle and well tolerated", "anti-aging"],
+    "cons" : []
+  },
+  {
+    "ingredient" : "Vitamin B5",
+    "alsoKnownAs" : ["Panthenol", "Pantothenic Acid"],
+    "pros" : ["supports healthy skin", "stimulates healing", "absorbs moisture"],
+    "cons" : []
+  },
+  {
+    "ingredient" : "Vitamin C",
+    "alsoKnownAs" : ["Ascorbic Acid"],
+    "pros" : ["brightening", "collagen building", "antioxidant"],
+    "cons" : []
+  },
+  {
+    "ingredient" : "Vitamin E",
+    "alsoKnownAs" : ["Forulic Acid"],
+    "pros" : ["antioxidant", "minimizes signs of premature aging", "protects and helps prevent cell damage"],
+    "cons" : []
+  }
+]
